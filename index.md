@@ -2,7 +2,7 @@
 ---
 ### Launching into Cyber Security
 
-[Project 1 Title](/sample_page)
+- [Project 1 Title](/sample_page)
 ---
 
 ### Network and Information Security Management
